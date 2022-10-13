@@ -1,0 +1,6 @@
+# Extensions to not include in repo
+*.txt
+*.iml
+*.DS_Store
+/out/*
+/.idea/*
