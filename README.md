@@ -1,2 +1,2 @@
-# repo-Team4
-Team 4 (Xu, Cui, Nie, Wu)
+Team members:
+Yangjiawen Xu, Yanjun Cui, Runpeng Nie, Hanzhang Wu
